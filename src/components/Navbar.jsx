@@ -13,6 +13,8 @@ function Navbar() {
 
     const closeMenu = () => setClick(false)
 
+   
+
     return (
         <div className='header'>
             <nav className='navbar'>
